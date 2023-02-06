@@ -1,0 +1,1 @@
+export const InfluxConnectionConstant = "INFLUX_CONNECTION"
